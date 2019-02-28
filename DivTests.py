@@ -1,8 +1,6 @@
 import unittest
 from Modules.Rational import Rational
 
-# Written by: Michael Schroeder
-
 class DivTests(unittest.TestCase):
     
     fac1 = Rational()
